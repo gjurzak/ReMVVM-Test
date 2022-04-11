@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MVVM",
+        "repositoryURL": "https://github.com/dgrzeszczak/MVVM",
+        "state": {
+          "branch": null,
+          "revision": "178ab99ea3286629975c728cbeb68d0dcd0a3c33",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
